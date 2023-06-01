@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_Dashboard/build/static/css/main.c6a1a11c.css",
+    "main.js": "/React_Dashboard/build/static/js/main.2f06fead.js",
+    "static/media/WhatsApp Image 2023-03-13 at 2.19.34 AM.jpeg": "/React_Dashboard/build/static/media/WhatsApp Image 2023-03-13 at 2.19.34 AM.41ee93f7c37a467c46e6.jpeg",
+    "index.html": "/React_Dashboard/build/index.html",
+    "main.c6a1a11c.css.map": "/React_Dashboard/build/static/css/main.c6a1a11c.css.map",
+    "main.2f06fead.js.map": "/React_Dashboard/build/static/js/main.2f06fead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a1a11c.css",
+    "static/js/main.2f06fead.js"
+  ]
+}

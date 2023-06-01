@@ -1,0 +1,153 @@
+.app.dark{
+    background-color: #111;
+     color: rgb(156, 156, 156);
+
+    .chartGrid{
+        stroke: rgba(228, 228, 228,0.219);
+    }
+    .tabel{
+        background-color: #0b0b0b;
+    .tabelCell{
+        color: gray;
+    }
+    }
+    .navBar{
+        color: #999;
+        border-color: #333;
+        background-color: #000;
+.item{
+
+
+       .dropdown{
+
+        background-color: #000 !important;
+        color: #999 !important;
+    }
+}
+        .search{
+            border-color: gray;
+        }  .select_language{
+
+
+            background-color: #000;
+            color: #999;
+        }
+        .profile{
+
+            background-color: #000 !important;
+            color: #999;
+        }
+    }
+    .sideBar{
+        background-color: #0b0b0b;
+        border-color: #333;
+        .top{
+            .logo{
+                color: #999;
+            }
+        }
+        hr{
+            border-color: #333;
+        }
+        ul{
+            li{
+                &:hover{
+                    background-color: #333;
+                }
+                .icon{
+
+                    // color: #999;
+                }
+            }
+        }
+    }
+    .dataGrid{
+        color: gray;
+        border: none;
+        .viewButton{
+            color: rgb(89, 174, 89);
+            border:1px solid   rgb(89, 174, 89);
+       &:hover{
+            background-color: rgb(89, 174, 89) ;
+            color: #fff;
+       }
+
+        }
+        .cellWithStatus{
+
+
+            color: gray;
+            border: none;
+        }
+    }
+        input{
+        background-color: transparent;
+
+        }
+    .darkBtn {
+
+        .icon{
+
+            color: #999;
+        }
+}
+.tabelRow{
+    color: #fff !important;
+}
+.thead{
+    background-color: #000;
+}
+
+td{
+
+
+    background-color: #000;
+    color: #999;
+}
+
+.actionsBtn {
+
+
+    background-color: #000;
+    
+    td{
+
+        background-color: #fff;
+    
+    }
+    
+}
+
+.green{
+
+    background-color: transparent;
+    border: 1px solid rgb(68, 169, 68);
+    color:rgb(68, 169, 68) !important ;
+    &:hover{
+    background-color: rgb(81, 169, 68);
+    color: #fff !important;
+
+    }
+}
+.red{
+
+    background-color: transparent;
+    border: 1px solid red;
+    color: inherit !important;
+    &:hover{
+    background-color: red;
+    color: #fff !important;
+
+    }
+}
+.blue{
+
+    background-color: transparent;
+    border: 1px solid rgb(82, 82, 177);
+    color: #000 !important;
+    &:hover{
+    background-color: rgb(82, 82, 177);
+    color: #fff !important;
+
+    }
+}}
